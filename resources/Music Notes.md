@@ -40,3 +40,12 @@ arxiv上有一些不错的论文，可以看看
 
 [https://arxiv.org/pdf/2005.00341.pdf](https://arxiv.org/pdf/2005.00341.pdf)
 
+### 6. 数据集
+
+[http://www.piano-midi.de/](http://www.piano-midi.de/)
+
+[http://abc.sourceforge.net/NMD/](http://abc.sourceforge.net/NMD/)
+
+[http://musedata.stanford.edu/](http://musedata.stanford.edu/)
+
+
